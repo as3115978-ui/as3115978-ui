@@ -45,17 +45,14 @@
 
 ## 📊 GitHub Dashboard
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.salesp07.site/api?username=as3115978-ui&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github&cache_seconds=1800" height="175" />
+  <img src="https://github-readme-stats.salesp07.site/api/top-langs/?username=as3115978-ui&layout=compact&theme=midnight-purple&hide_border=true&cache_seconds=1800" height="175" />
+</p>
 
-<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=as3115978-ui&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=as3115978-ui&layout=compact&theme=midnight-purple&hide_border=true" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=as3115978-ui&theme=midnight-purple&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=as3115978-ui&theme=midnight-purple&hide_border=true" width="70%" />
+</p>
 
 ## 🐍 My Contribution Snake
 
