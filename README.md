@@ -21,6 +21,16 @@
 - 🎓 B.Tech Student – Artificial Intelligence & Machine Learning
 - 🐍 Interested in Python and Automation
 - 🤖 Exploring Artificial Intelligence and Machine Learning
+<div align="center">
+
+### 💜 CODE • LEARN • CREATE • REPEAT
+
+**🪷 Radhe Radhe 🪷**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:240046,50:7209B7,100:C77DFF&height=110&section=footer" width="100%"/>
+
+</div>
+
 - ⚙️ Learning DevOps, Git and CI/CD
 - 🚀 Building projects and improving my coding skills
 
