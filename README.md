@@ -18,17 +18,16 @@
 
 ## 💜 About Me
 
-- 🎓 B.Tech Student – Artificial Intelligence & Machine Learning
-- 🐍 Interested in Python and Automation
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- ⚙️ Learning DevOps, Git and CI/CD
-- 🚀 Building projects and improving my coding skills
+- 🎓 **Focus:** B.Tech Student – Artificial Intelligence & Machine Learning
+- 🐍 **Languages:** Python, C++, SQL
+- ⚙️ **Interests:** DevOps, CI/CD, Machine Learning & Automation
+- 🚀 **Goals:** Building intelligent pipelines & scalable software
 
-## 🚀 My Tech Universe
+## 🚀 Tech Universe
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux,docker,vscode,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github,githubactions,linux,docker,vscode,html,css&theme=dark" />
 
 </div>
 
@@ -43,22 +42,35 @@
 
 </div>
 
-## 📊 GitHub Dashboard
+## 🏆 GitHub Achievements & Trophies
 
-<p align="center">
-  <img src="https://github-readme-stats.salesp07.site/api?username=as3115978-ui&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github&cache_seconds=1800" height="175" />
-  <img src="https://github-readme-stats.salesp07.site/api/top-langs/?username=as3115978-ui&layout=compact&theme=midnight-purple&hide_border=true&cache_seconds=1800" height="175" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=as3115978-ui&theme=midnight-purple&hide_border=true" width="70%" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=as3115978-ui&theme=juicyfresh&column=7&margin-w=10&margin-h=10&no-bg=true" width="100%" alt="GitHub Trophies"/>
 
-## 🐍 My Contribution Snake
+</div>
+
+## 📊 Activity & Streak
+
+<div align="center">
+
+<img width="85%" src="https://streak-stats.demolab.com?user=as3115978-ui&theme=midnight-purple&hide_border=true&border_radius=8" />
+
+</div>
+
+## 🐍 Contribution Journey
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/as3115978-ui/as3115978-ui/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
+
+</div>
+
+## 💡 Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" alt="Daily Quote"/>
 
 </div>
 
