@@ -74,6 +74,21 @@
 
 </div>
 
+
+## 🎮 Mini Arcade & Play Zone
+
+<div align="center">
+
+<a href="https://github.com/as3115978-ui">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake Game" />
+</a>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1000&color=C77DFF&center=true&vCenter=true&width=500&lines=LEVEL+UP+YOUR+CODE;PRESS+START+TO+CONTINUE;HIGH+SCORE%3A+999999" />
+</p>
+
+</div>
+
 ## 🌐 Connect With Me
 
 <div align="center">
