@@ -1,4 +1,25 @@
+## 🧠 What I'm Learning
+
 <div align="center">
+
+<img src="https://img.shields.io/badge/Python-7B2CBF?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-5A189A?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/DevOps-9D4EDD?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-3C096C?style=for-the-badge&logo=github-actions&logoColor=white"/>
+
+</div>## 📊 GitHub Dashboard
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=as3115978-ui&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=as3115978-ui&layout=compact&theme=midnight-purple&hide_border=true" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=as3115978-ui&theme=midnight-purple&hide_border=true" />
+
+</div><div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:240046,50:7209B7,100:C77DFF&height=220&section=header&text=ANSHU%20SINGH&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20PYTHON%20%7C%20DEVOPS&descAlignY=58&descSize=18" width="100%"/>
 
