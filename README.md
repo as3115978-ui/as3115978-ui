@@ -42,11 +42,11 @@
 
 </div>
 
-## 🏆 GitHub Achievements & Trophies
+## 🏆 Contribution Summary
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=as3115978-ui&theme=juicyfresh&column=7&margin-w=10&margin-h=10&no-bg=true" width="100%" alt="GitHub Trophies"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=as3115978-ui&theme=midnight_purple" width="90%" alt="GitHub Profile Summary" />
 
 </div>
 
